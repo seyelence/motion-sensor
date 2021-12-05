@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 sensor = 11              # Pin GPIO17
-buzzer = 3                   # Pin GPIO4
+buzzer = 3               
 
 # setmode allows us to set the numbering we use for our pins
 
